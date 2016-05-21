@@ -7,4 +7,4 @@ This is a system I made for my GF, and be use in their cargo system. Maybe this 
 * `npm install bower`
 * `bower install`
 * `npm install --no-bin-links`
-* `npm install laravel-elixir-angular
+* `npm install laravel-elixir-angular --save

@@ -11,6 +11,9 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+/*Route::get('/', function () {
+    return view('index');
+});*/
+
+//$router->get('test/test', 'TestController@testMethods');
+$router->get('/', 'HomeController@index');
